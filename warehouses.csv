@@ -1,0 +1,21 @@
+warehouse_id,warehouse_location,storage_capacity
+W001,Mumbai Central Warehouse,50000
+W002,Delhi North Warehouse,45000
+W003,Bangalore Tech Hub,40000
+W004,Chennai Port Warehouse,55000
+W005,Hyderabad Logistics Hub,42000
+W006,Pune West Warehouse,38000
+W007,Kolkata Dock Warehouse,48000
+W008,Jaipur Distribution Center,35000
+W009,Ahmedabad Gateway,41000
+W010,Lucknow Central Depot,36000
+W011,Surat Textile Hub,39000
+W012,Nagpur Central Depot,33000
+W013,Indore Distribution Center,37000
+W014,Bhopal Storage Facility,31000
+W015,Chandigarh North Hub,34000
+W016,Coimbatore South Depot,32000
+W017,Visakhapatnam Port Hub,43000
+W018,Kochi Marine Warehouse,38000
+W019,Guwahati East Depot,29000
+W020,Patna Central Warehouse,30000
